@@ -2,7 +2,7 @@
     {
         "id": "playstation-4_1",
         "titulo": "Cyberpunk 2077",
-        "imagen": "./assent/Img/CARATULAS/PS4/Cyberpunk 2077 [2020].jfif",
+        "imagen": "./assent/Img/CARATULAS/PS4/Cyberpunk 2077.jfif",
         "categoria": {
             "nombre": "playstation 4",
             "id": "playstation-4"
@@ -12,7 +12,7 @@
     {
         "id": "playstation-4_2",
         "titulo": "Immortals Fenyx Rising",
-        "imagen": "./assent/Img/CARATULAS/PS4/Immortals Fenyx Rising (Limited Edition) [2020].jfif",
+        "imagen": "./assent/Img/CARATULAS/PS4/Immortals Fenyx Rising.jfif",
         "categoria": {
             "nombre": "playstation 4",
             "id": "playstation-4"
@@ -22,7 +22,7 @@
     {
         "id": "playstation-4_3",
         "titulo": "Resident Evil 3",
-        "imagen": "./assent/Img/CARATULAS/PS4/Resident Evil 3 [2020].jfif",
+        "imagen": "./assent/Img/CARATULAS/PS4/Resident Evil 3.jfif",
         "categoria": {
             "nombre": "playstation 4",
             "id": "playstation-4"
@@ -32,7 +32,7 @@
     {
         "id": "playstation-4_4",
         "titulo": "The Elder Scrolls V Skyrim",
-        "imagen": "./assent/Img/CARATULAS/PS4/The Elder Scrolls V_ Skyrim (Special Edition) [2016].jfif",
+        "imagen": "./assent/Img/CARATULAS/PS4/The Elder Scrolls V Skyrim.jfif",
         "categoria": {
             "nombre": "playstation 4",
             "id": "playstation-4"
@@ -42,7 +42,7 @@
     {
         "id": "playstation-5_1",
         "titulo": "Elden Ring",
-        "imagen": "./assent/Img/CARATULAS/PS5/Elden_Ring_Shadow_of_the_Erdtree.jpg",
+        "imagen": "./assent/Img/CARATULAS/PS5/Elden Ring Shadow of the Erdtree.jpg",
         "categoria": {
             "nombre": "playstation 5",
             "id": "playstation-5"
@@ -52,7 +52,7 @@
     {
         "id": "playstation-5_2",
         "titulo": "Ghost of Tsushima",
-        "imagen": "./assent/Img/CARATULAS/PS5/Ghost_of_Tsushima.jpg",
+        "imagen": "./assent/Img/CARATULAS/PS5/Ghost of Tsushima.jpg",
         "categoria": {
             "nombre": "playstation 5",
             "id": "playstation-5"
@@ -62,7 +62,7 @@
     {
         "id": "playstation-5_3",
         "titulo": "God of war ragnarok",
-        "imagen": "./assent/Img/CARATULAS/PS5/god-of-war-ragnarok.jpg",
+        "imagen": "./assent/Img/CARATULAS/PS5/god of war ragnarok.jpg",
         "categoria": {
             "nombre": "playstation 5",
             "id": "playstation-5"
@@ -82,7 +82,7 @@
     {
         "id": "xbox-one_1",
         "titulo": "Call of Duty Black Ops III",
-        "imagen": "./assent/Img/CARATULAS/XBOX ONE/Call of Duty_ Black Ops III [2015].jfif",
+        "imagen": "./assent/Img/CARATULAS/XBOX ONE/Call of Duty Black Ops III.jfif",
         "categoria": {
             "nombre": "Xbox one",
             "id": "xbox-one"
@@ -102,7 +102,7 @@
     {
         "id": "xbox-one_3",
         "titulo": "Tekken 7",
-        "imagen": "./assent/Img/CARATULAS/XBOX ONE/Tekken 7 [2015].jfif",
+        "imagen": "./assent/Img/CARATULAS/XBOX ONE/Tekken 7.jfif",
         "categoria": {
             "nombre": "Xbox one",
             "id": "xbox-one"
@@ -112,7 +112,7 @@
     {
         "id": "xbox-one_4",
         "titulo": "Final Fantasy XV",
-        "imagen": "./assent/Img/CARATULAS/XBOX ONE/Xbox One_ Final Fantasy XV box cover_.jfif",
+        "imagen": "./assent/Img/CARATULAS/XBOX ONE/Final Fantasy XV.jfif",
         "categoria": {
             "nombre": "Xbox one",
             "id": "xbox-one"
@@ -122,7 +122,7 @@
     {
         "id": "xbox-series-x_1",
         "titulo": "EA SPORTS FC 24",
-        "imagen": "./assent/Img/CARATULAS/XBOX SERIES X/EA SPORTS FC 24 – Xbox Series X & Xbox One.jfif",
+        "imagen": "./assent/Img/CARATULAS/XBOX SERIES X/EA SPORTS FC 24.jfif",
         "categoria": {
             "nombre": "Xbox Series X",
             "id": "xbox-series-x"
@@ -132,7 +132,7 @@
     {
         "id": "xbox-series-x_2",
         "titulo": "Lies of P",
-        "imagen": "./assent/Img/CARATULAS/XBOX SERIES X/Lies of P - Xbox Series X.jpg",
+        "imagen": "./assent/Img/CARATULAS/XBOX SERIES X/Lies of P.jpg",
         "categoria": {
             "nombre": "Xbox Series X",
             "id": "xbox-series-x"
@@ -142,7 +142,7 @@
     {
         "id": "xbox-series-x_3",
         "titulo": "Jojo's Bizarre Adventure",
-        "imagen": "./assent/Img/CARATULAS/XBOX SERIES X/Jojo's Bizarre Adventure_ All-Star Battle R - Xbox Series X.jfif",
+        "imagen": "./assent/Img/CARATULAS/XBOX SERIES X/Jojo s Bizarre Adventure.jfif",
         "categoria": {
             "nombre": "Xbox Series X",
             "id": "xbox-series-x"
@@ -152,7 +152,7 @@
     {
         "id": "xbox-series-x_4",
         "titulo": "Mortal Kombat 1",
-        "imagen": "./assent/Img/CARATULAS/XBOX SERIES X/Mortal Kombat 1 - Xbox Series X.jfif",
+        "imagen": "./assent/Img/CARATULAS/XBOX SERIES X/Mortal Kombat 1.jfif",
         "categoria": {
             "nombre": "Xbox Series X",
             "id": "xbox-series-x"
@@ -172,7 +172,7 @@
     {
         "id": "nintendo-switch_2",
         "titulo": "Re_ZERO",
-        "imagen": "./assent/Img/CARATULAS/NINTENDO SWITCH/Re_ZERO - The Prophecy of the Throne Day 1 Edition - Nintendo Switch.jfif",
+        "imagen": "./assent/Img/CARATULAS/NINTENDO SWITCH/Re_ZERO.jfif",
         "categoria": {
             "nombre": "nintendo switch",
             "id": "nintendo-switch"
@@ -182,7 +182,7 @@
     {
         "id": "nintendo-switch_3",
         "titulo": "Super Dragon Ball Heroes",
-        "imagen": "./assent/Img/CARATULAS/NINTENDO SWITCH/Super Dragon Ball Heroes_ World Mission - (NSW) Nintendo Switch [Pre-Owned] (Japanese Import) - PRE-OWNED GAME CARTRIDGE WITH GAME CASE AND GAME COVE.jfif",
+        "imagen": "./assent/Img/CARATULAS/NINTENDO SWITCH/Super Dragon Ball Heroes.jfif",
         "categoria": {
             "nombre": "nintendo switch",
             "id": "nintendo-switch"
@@ -192,7 +192,7 @@
     {
         "id": "nintendo-switch_4",
         "titulo": "Super Mario Party",
-        "imagen": "./assent/Img/CARATULAS/NINTENDO SWITCH/Super Mario Party Nintendo Switch Nuevo    (en D3 Gamers) - $ 1,449.jfif",
+        "imagen": "./assent/Img/CARATULAS/NINTENDO SWITCH/Super Mario Party.jfif",
         "categoria": {
             "nombre": "nintendo switch",
             "id": "nintendo-switch"
