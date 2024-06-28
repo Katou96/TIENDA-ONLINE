@@ -1,0 +1,204 @@
+[
+    {
+        "id": "playstation-4_1",
+        "titulo": "Cyberpunk 2077",
+        "imagen": "./assent/Img/CARATULAS/PS4/Cyberpunk 2077 [2020].jfif",
+        "categoria": {
+            "nombre": "playstation 4",
+            "id": "playstation-4"
+        },
+        "precio": 20
+    },
+    {
+        "id": "playstation-4_2",
+        "titulo": "Immortals Fenyx Rising",
+        "imagen": "./assent/Img/CARATULAS/PS4/Immortals Fenyx Rising (Limited Edition) [2020].jfif",
+        "categoria": {
+            "nombre": "playstation 4",
+            "id": "playstation-4"
+        },
+        "precio": 20
+    },
+    {
+        "id": "playstation-4_3",
+        "titulo": "Resident Evil 3",
+        "imagen": "./assent/Img/CARATULAS/PS4/Resident Evil 3 [2020].jfif",
+        "categoria": {
+            "nombre": "playstation 4",
+            "id": "playstation-4"
+        },
+        "precio": 20
+    },
+    {
+        "id": "playstation-4_4",
+        "titulo": "The Elder Scrolls V Skyrim",
+        "imagen": "./assent/Img/CARATULAS/PS4/The Elder Scrolls V_ Skyrim (Special Edition) [2016].jfif",
+        "categoria": {
+            "nombre": "playstation 4",
+            "id": "playstation-4"
+        },
+        "precio": 20
+    },
+    {
+        "id": "playstation-5_1",
+        "titulo": "Elden Ring",
+        "imagen": "./assent/Img/CARATULAS/PS5/Elden_Ring_Shadow_of_the_Erdtree.jpg",
+        "categoria": {
+            "nombre": "playstation 5",
+            "id": "playstation-5"
+        },
+        "precio": 20
+    },
+    {
+        "id": "playstation-5_2",
+        "titulo": "Ghost of Tsushima",
+        "imagen": "./assent/Img/CARATULAS/PS5/Ghost_of_Tsushima.jpg",
+        "categoria": {
+            "nombre": "playstation 5",
+            "id": "playstation-5"
+        },
+        "precio": 20
+    },
+    {
+        "id": "playstation-5_3",
+        "titulo": "God of war ragnarok",
+        "imagen": "./assent/Img/CARATULAS/PS5/god-of-war-ragnarok.jpg",
+        "categoria": {
+            "nombre": "playstation 5",
+            "id": "playstation-5"
+        },
+        "precio": 20
+    },
+    {
+        "id": "playstation-5_4",
+        "titulo": "FIFA 23",
+        "imagen": "./assent/Img/CARATULAS/PS5/FIFA23.jpg",
+        "categoria": {
+            "nombre": "playstation 5",
+            "id": "playstation-5"
+        },
+        "precio": 20
+    },
+    {
+        "id": "xbox-one_1",
+        "titulo": "Call of Duty Black Ops III",
+        "imagen": "./assent/Img/CARATULAS/XBOX ONE/Call of Duty_ Black Ops III [2015].jfif",
+        "categoria": {
+            "nombre": "Xbox one",
+            "id": "xbox-one"
+        },
+        "precio": 20
+    },
+    {
+        "id": "xbox-one_2",
+        "titulo": "Monster Hunter World",
+        "imagen": "./assent/Img/CARATULAS/XBOX ONE/Monster Hunter World.jpg",
+        "categoria": {
+            "nombre": "Xbox one",
+            "id": "xbox-one"
+        },
+        "precio": 20
+    },
+    {
+        "id": "xbox-one_3",
+        "titulo": "Tekken 7",
+        "imagen": "./assent/Img/CARATULAS/XBOX ONE/Tekken 7 [2015].jfif",
+        "categoria": {
+            "nombre": "Xbox one",
+            "id": "xbox-one"
+        },
+        "precio": 20
+    },
+    {
+        "id": "xbox-one_4",
+        "titulo": "Final Fantasy XV",
+        "imagen": "./assent/Img/CARATULAS/XBOX ONE/Xbox One_ Final Fantasy XV box cover_.jfif",
+        "categoria": {
+            "nombre": "Xbox one",
+            "id": "xbox-one"
+        },
+        "precio": 20
+    },
+    {
+        "id": "xbox-series-x_1",
+        "titulo": "EA SPORTS FC 24",
+        "imagen": "./assent/Img/CARATULAS/XBOX SERIES X/EA SPORTS FC 24 – Xbox Series X & Xbox One.jfif",
+        "categoria": {
+            "nombre": "Xbox Series X",
+            "id": "xbox-series-x"
+        },
+        "precio": 20
+    },
+    {
+        "id": "xbox-series-x_2",
+        "titulo": "Lies of P",
+        "imagen": "./assent/Img/CARATULAS/XBOX SERIES X/Lies of P - Xbox Series X.jpg",
+        "categoria": {
+            "nombre": "Xbox Series X",
+            "id": "xbox-series-x"
+        },
+        "precio": 20
+    },
+    {
+        "id": "xbox-series-x_3",
+        "titulo": "Jojo's Bizarre Adventure",
+        "imagen": "./assent/Img/CARATULAS/XBOX SERIES X/Jojo's Bizarre Adventure_ All-Star Battle R - Xbox Series X.jfif",
+        "categoria": {
+            "nombre": "Xbox Series X",
+            "id": "xbox-series-x"
+        },
+        "precio": 20
+    },
+    {
+        "id": "xbox-series-x_4",
+        "titulo": "Mortal Kombat 1",
+        "imagen": "./assent/Img/CARATULAS/XBOX SERIES X/Mortal Kombat 1 - Xbox Series X.jfif",
+        "categoria": {
+            "nombre": "Xbox Series X",
+            "id": "xbox-series-x"
+        },
+        "precio": 20
+    },
+    {
+        "id": "nintendo-switch_1",
+        "titulo": "Cuphead",
+        "imagen": "./assent/Img/CARATULAS/NINTENDO SWITCH/Cuphead.jfif",
+        "categoria": {
+            "nombre": "nintendo switch",
+            "id": "nintendo-switch"
+        },
+        "precio": 20
+    },
+    {
+        "id": "nintendo-switch_2",
+        "titulo": "Re_ZERO",
+        "imagen": "./assent/Img/CARATULAS/NINTENDO SWITCH/Re_ZERO - The Prophecy of the Throne Day 1 Edition - Nintendo Switch.jfif",
+        "categoria": {
+            "nombre": "nintendo switch",
+            "id": "nintendo-switch"
+        },
+        "precio": 20
+    },
+    {
+        "id": "nintendo-switch_3",
+        "titulo": "Super Dragon Ball Heroes",
+        "imagen": "./assent/Img/CARATULAS/NINTENDO SWITCH/Super Dragon Ball Heroes_ World Mission - (NSW) Nintendo Switch [Pre-Owned] (Japanese Import) - PRE-OWNED GAME CARTRIDGE WITH GAME CASE AND GAME COVE.jfif",
+        "categoria": {
+            "nombre": "nintendo switch",
+            "id": "nintendo-switch"
+        },
+        "precio": 20
+    },
+    {
+        "id": "nintendo-switch_4",
+        "titulo": "Super Mario Party",
+        "imagen": "./assent/Img/CARATULAS/NINTENDO SWITCH/Super Mario Party Nintendo Switch Nuevo    (en D3 Gamers) - $ 1,449.jfif",
+        "categoria": {
+            "nombre": "nintendo switch",
+            "id": "nintendo-switch"
+        },
+        "precio": 20
+    }
+]
+
+
